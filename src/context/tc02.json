@@ -1,0 +1,33 @@
+{
+  "workItems": [
+    {
+      "work_id": "11111111-aaaa-bbbb-cccc-000000000002",
+      "task_id": "11111111-aaaa-bbbb-cccc-000000000010",
+      "title": "Checklist: Lam baitap Vat ly",
+      "effective_deadline": "2025-09-27T09:00:00Z",
+      "effective_priority": 2,
+      "status": 1,
+      "is_atomic": false,
+      "task_deadline": "2025-09-28T09:00:00Z",
+      "task_priority": 2,
+      "task_status": 1
+    }
+  ],
+  "scheduleEntries": [],
+  "freeSlots": [
+    {
+      "startUtc": "2025-09-25T09:00:00Z",
+      "endUtc": "2025-09-25T11:00:00Z",
+      "startLocal": "2025-09-25T16:00:00+07:00",
+      "endLocal": "2025-09-25T18:00:00+07:00",
+      "durationMinutes": 120,
+      "timeZone": "Asia/Ho_Chi_Minh"
+    }
+  ],
+  "studyProfile": {
+    "user_id": "11111111-1111-1111-1111-111111111111",
+    "chronotype": "early_bird",
+    "focusStyle": "deep_work",
+    "workStyle": "solo"
+  }
+}

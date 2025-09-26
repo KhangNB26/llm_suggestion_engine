@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "item_type": 0,
+      "title": "On tap Giai tich - Part 1",
+      "parentTaskId": null,
+      "estimated_minutes": 60,
+      "deadline": "2025-09-25T11:00:00Z",
+      "confidence": 0.85,
+      "reason": "Uu tien slot sang cho early_bird"
+    },
+    {
+      "item_type": 1,
+      "title": "Checklist - Bai tap mau",
+      "parentTaskId": null,
+      "estimated_minutes": 30,
+      "deadline": "2025-09-25T11:00:00Z",
+      "confidence": 0.7,
+      "reason": "Bo sung checklist nho."
+    }
+  ],
+  "note": "So item <= 3 theo yeu cau."
+}

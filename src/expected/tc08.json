@@ -1,0 +1,4 @@
+{
+  "error": "Validation failed: missing required fields (item_type/title)",
+  "status": 400
+}

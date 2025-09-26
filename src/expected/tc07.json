@@ -1,0 +1,4 @@
+{
+  "error": "Invalid JSON from LLM/adapter",
+  "status": 502
+}

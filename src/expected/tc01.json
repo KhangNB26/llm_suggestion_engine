@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "item_type": 0,
+      "title": "On tap Giai tich",
+      "parentTaskId": null,
+      "estimated_minutes": 90,
+      "deadline": "2025-09-25T11:00:00Z",
+      "confidence": 0.85,
+      "reason": "Chon slot buoi sang theo ho so early_bird."
+    }
+  ]
+}
