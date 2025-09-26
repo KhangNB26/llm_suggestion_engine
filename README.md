@@ -38,8 +38,8 @@ An AI service using **Google Gemini API** to generate task suggestions, validate
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-org/ai-suggestion-engine.git
-cd ai-suggestion-engine
+git clone https://github.com/KhangNB26/llm_suggestion_engine
+cd llm_suggestion_engine
 ```
 
 ### 2. Create virtual environment & install dependencies
