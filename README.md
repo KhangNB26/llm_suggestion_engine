@@ -64,7 +64,7 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 
 ### 1. Start the API server
 ```bash
-uvicorn main:app --reload
+uvicorn src.api:app --reload
 ```
 
 Server runs at: `http://127.0.0.1:8000`
